@@ -1,0 +1,56 @@
+.App {
+  min-height: 100vh;
+  background-color: #1a1d29;
+  padding-bottom: 2rem;
+}
+
+.app-header {
+  position: sticky;
+  top: 0;
+  background: #1a1d29;
+  padding: 0.15dvh 1rem;
+  z-index: 200;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.app-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: white;
+  margin: 0;
+  text-align: left;
+}
+
+.app-subtitle {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  margin-top: 0.25rem;
+}
+
+.workouts-container {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.workouts-list {
+  margin-top: 1rem;
+}
+
+@media (max-width: 480px) {
+  .app-title {
+    font-size: 1.5rem;
+  }
+
+  .app-subtitle {
+    font-size: 0.8rem;
+  }
+
+  .workouts-container {
+    padding: 0 0.75rem;
+  }
+}

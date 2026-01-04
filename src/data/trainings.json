@@ -1,0 +1,115 @@
+{
+  "source": "Tri-Training-Programme-12-week-Sprint-Beginner-ES.pdf (paginas 4 a 9)",
+  "workouts": [
+    {
+      "week": 1,
+      "day": "Lunes",
+      "date": 12,
+      "discipline": "Natación",
+      "title": "Natación suave 1",
+      "duration": "45 min",
+      "zones": [2],
+      "main_zone": 2,
+      "completed": true,
+      "blocks": [
+        "Bloque 1: 200 m Z1 combinado (libre + espalda)",
+        "Bloque 2: 3x200 m Z1 tirón + 20 s (agarre anticipado)",
+        "Bloque 3: 200 m Z1 (crol + patada)"
+      ],
+      "notes": "No te preocupes por la velocidad. Relájate y trabaja técnica (agarre y rotación)."
+    },
+    {
+      "week": 1,
+      "day": "Martes",
+      "date": 13,
+      "discipline": "Carrera",
+      "title": "Trote suave 20",
+      "duration": "60 min",
+      "zones": [4],
+      "main_zone": 4,
+      "completed": false,
+      "blocks": ["Bloque 1: 20 min Z1"],
+      "notes": "5–10 min de ejercicios suaves antes. Mantén ritmo/FC constantes. Estirar 5 min."
+    },
+    {
+      "week": 1,
+      "day": "Miércoles",
+      "date": 14,
+      "discipline": "Descanso",
+      "title": "Día Libre",
+      "duration": "All day",
+      "zones": [],
+      "main_zone": null,
+      "completed": false,
+      "blocks": [],
+      "notes": "Recuperación. Estiramiento suave o masaje si es posible."
+    },
+    {
+      "week": 1,
+      "day": "Jueves",
+      "date": 15,
+      "discipline": "Bicicleta",
+      "title": "Bicicleta suave 50",
+      "duration": "35 min",
+      "zones": [1],
+      "main_zone": 1,
+      "completed": false,
+      "blocks": [
+        "Bloque 1: 5 min Z1 a 90 RPM",
+        "Bloque 2: 5 min Z1 a 80 RPM",
+        "Bloque 3: 35 min Z1 a 90–95 RPM",
+        "Bloque 4: 5 min muy suave"
+      ],
+      "notes": "Carretera o turbo. Pedaleo suave para recuperar piernas."
+    },
+    {
+      "week": 1,
+      "day": "Viernes",
+      "date": 15,
+      "discipline": "Natación",
+      "title": "Natación técnica .8",
+      "duration": "35 min",
+      "zones": [1],
+      "main_zone": 1,
+      "completed": false,
+      "blocks": [
+        "Bloque 1: 200 m Z1 (libre + espalda)",
+        "Bloque 2: 3x (25 m patada, 50 m técnica, 75 m nado) todo Z1 + 20 s",
+        "Bloque 3: 150 m tirón o nado Z1"
+      ],
+      "notes": "Trabaja recuperación y agarre al inicio de la brazada."
+    },
+    {
+      "week": 1,
+      "day": "Sábado",
+      "date": 15,
+      "discipline": "Brick",
+      "title": "Bicicleta suave 40 + Trote suave 20",
+      "duration": "35 min",
+      "zones": [1],
+      "main_zone": 1,
+      "completed": false,
+      "blocks": [
+        "Bloque 1: 5 min Z1 a 90 RPM",
+        "Bloque 2: 5 min Z1 a 80 RPM",
+        "Bloque 3: 25 min Z1 a 95 RPM",
+        "Bloque 4: 5 min muy suave",
+        "Bloque 5: 20 min Z1 corriendo"
+      ],
+      "notes": "Mantén RPM altas al salir (93–95). Hidratación. Transición directa desde la bici."
+    },
+    {
+      "week": 1,
+      "day": "Domingo",
+      "date": 14,
+      "discipline": "Descanso",
+      "title": "Día Libre",
+      "duration": "All day",
+      "zones": [],
+      "main_zone": null,
+      "completed": false,
+      "blocks": [],
+      "notes": "Recuperación semanal. Estiramiento suave o masaje si es posible."
+    }
+  ]
+}

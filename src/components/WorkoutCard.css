@@ -1,0 +1,212 @@
+.workout-card {
+  background: #242938;
+  border-radius: 16px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+.workout-card:hover {
+  background: #2a2f3d;
+  border-color: #3b82f6;
+}
+
+.workout-card.rest-day {
+  background: rgba(36, 41, 56, 0.5);
+  border: 2px dashed #3a3f4d;
+  cursor: default;
+}
+
+.workout-card.rest-day:hover {
+  background: rgba(42, 47, 61, 0.5);
+  border-color: #3a3f4d;
+}
+
+.workout-card.completed {
+  opacity: 0.7;
+  background: rgba(36, 41, 56, 0.6);
+}
+
+.workout-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.workout-date {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 50px;
+}
+
+.day-short {
+  font-size: 0.75rem;
+  color: #8b92a7;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.day-number {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #fff;
+}
+
+.workout-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+}
+
+.discipline-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: brightness(1.1) saturate(1.2);
+  transition: transform 0.3s ease;
+}
+
+.workout-card:hover .discipline-icon {
+  transform: scale(1.1);
+}
+
+.workout-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.workout-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  margin: 0 0 0.25rem 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.workout-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: #8b92a7;
+}
+
+.workout-duration {
+  font-weight: 500;
+}
+
+.meta-divider {
+  color: #3a3f4d;
+}
+
+.workout-zone {
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.workout-checkbox {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 2px solid #3a3f4d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  flex-shrink: 0;
+}
+
+.workout-checkbox:hover {
+  border-color: #3b82f6;
+  background: rgba(59, 130, 246, 0.1);
+}
+
+.workout-checkbox.checked {
+  background: #3b82f6;
+  border-color: #3b82f6;
+}
+
+.checkmark {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.workout-details {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #3a3f4d;
+  animation: slideDown 0.3s ease-out;
+}
+
+.workout-blocks h4,
+.workout-notes h4 {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #8b92a7;
+  margin: 0 0 0.75rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.workout-blocks ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem 0;
+}
+
+.workout-blocks li {
+  color: #fff;
+  padding: 0.5rem 0;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-bottom: 1px solid rgba(58, 63, 77, 0.5);
+}
+
+.workout-blocks li:last-child {
+  border-bottom: none;
+}
+
+.workout-notes p {
+  color: #a5abb8;
+  font-size: 0.875rem;
+  line-height: 1.6;
+  margin: 0;
+  font-style: italic;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 480px) {
+  .workout-card {
+    padding: 1rem;
+  }
+
+  .workout-title {
+    font-size: 0.9rem;
+  }
+
+  .workout-meta {
+    font-size: 0.8rem;
+  }
+}

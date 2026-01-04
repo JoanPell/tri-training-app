@@ -1,0 +1,1612 @@
+{
+  "source": "Tri-Training-Programme-12-week-Sprint-Beginner-ES.pdf (paginas 4 a 9)",
+  "flat_workouts": [
+    {
+      "week": 1,
+      "phase": 1,
+      "day": "Lunes",
+      "discipline": "Natación",
+      "title": "Natación suave 1",
+      "duration": "1:00",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de combinado de estilo libre y espalda",
+        "Bloque 2: 3x200 m en Z1 Tirón + 20 s trabajando en el agarre anticipado",
+        "Bloque 3: 200 m en Z1 combinación de crol y patada"
+      ],
+      "notes": "No te preocupes por la velocidad en esta sesión, acostúmbrate a estar en el agua y a relajarte. Trabaja la técnica, especialmente el agarre y la rotación del cuerpo",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 1,
+      "phase": 1,
+      "day": "Martes",
+      "discipline": "Carrera",
+      "title": "Trote suave 20",
+      "duration": "0:20",
+      "blocks": [
+        "Bloque 1: 20 min en Z1"
+      ],
+      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. El objetivo es mantener una frecuencia cardíaca y un ritmo constantes, por lo que no debes empezar muy fuerte. Debes terminar sintiéndote bien. Termina con 5 min de estiramiento.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 1,
+      "phase": 1,
+      "day": "Miércoles",
+      "discipline": "Descanso",
+      "title": "Día libre tómate un día libre",
+      "duration": null,
+      "blocks": [],
+      "notes": "para recuperarte de los dos primeros días. Puede que creas que no te hace falta, pero el objetivo es ser constante y recuperarte antes de que sientas que lo necesitas te ayudará. Haz un poco de estiramiento suave o que te den un masaje, si es posible.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 1,
+      "phase": 1,
+      "day": "Jueves",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta suave 50",
+      "duration": "0:50",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 90 RPM",
+        "Bloque 2: 5 min en Z1 a 80 RPM.",
+        "Bloque 3: 35 min en Z1 pedaleando a 90-95 RPM.",
+        "Bloque 4: 5 min muy suave"
+      ],
+      "notes": "Puedes hacerlo en carretera o turbo. Realiza un pedaleo suave. Esto ayudará a que tus piernas se recuperen de la dura carrera de ayer",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 1,
+      "phase": 1,
+      "day": "Viernes",
+      "discipline": "Natación",
+      "title": "Natación técnica .8",
+      "duration": "8:00",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de natación combinada de estilo libre y espalda.",
+        "Bloque 2: 3x (25 m patada, 50 m técnica, 75 m natación) Todo en",
+        "Bloque 3: 150 m Tirón o Natación en Z1."
+      ],
+      "notes": "Z1+20 s. Trabaja tu recuperación y agarre al principio de la brazada. Sesión de entrenamiento",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 1,
+      "phase": 1,
+      "day": "Sábado",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta suave 40",
+      "duration": "0:40",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 90 RPM",
+        "Bloque 2: 5 min en Z1 a 80 RPM.",
+        "Bloque 3: 25 min en Z1 a 95 RPM",
+        "Bloque 4: 5 min muy suave Bájate de la bici y directo a:"
+      ],
+      "notes": null,
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 1,
+      "phase": 1,
+      "day": "Sábado",
+      "discipline": "Carrera",
+      "title": "Trote suave 20",
+      "duration": "0:20",
+      "blocks": [
+        "Bloque 1: 20 min en Z1. Mantén las RPM altas nada más salir con la bicicleta. Intenta conseguir unas 93-95 RPM. Recuerda mantenerte hidratado durante la sesión."
+      ],
+      "notes": null,
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 1,
+      "phase": 1,
+      "day": "Domingo",
+      "discipline": "Descanso",
+      "title": "Día libre movible tómate el",
+      "duration": null,
+      "blocks": [],
+      "notes": "día libre para recuperarte de la semana. Preferiblemente en este día, pero puedes cambiarlo como mejor se ajuste a tu semana. Haz un poco de estiramiento suave o que te den un masaje, si es posible.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 2,
+      "phase": 1,
+      "day": "Lunes",
+      "discipline": "Natación",
+      "title": "Natación continua 1.3",
+      "duration": "1:18",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de natación con algo de espalda.",
+        "Bloque 2: 2x50 m de patada en",
+        "Bloque 3: 4x200 m natación o tirón en Z2 + 20 s.",
+        "Bloque 4: 200 m en Z1 de natación. Cuenta las brazadas cada tercer largo de 50 m de tus 200 m e intenta reducir la cantidad de brazadas que das en las siguientes sesiones."
+      ],
+      "notes": "Z1 + 10 s.",
+      "zones": [
+        1,
+        2
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 2,
+      "phase": 1,
+      "day": "Martes",
+      "discipline": "Carrera",
+      "title": "Rodaje largo 45",
+      "duration": "0:45",
+      "blocks": [
+        "Bloque 1: 45 min de carrera en"
+      ],
+      "notes": "Z1. Mantén la intensidad constante a lo largo de la sesión. Esto te ayudará a aumentar tu resistencia base para que puedas soportar el ejercicio a mayor intensidad más adelante. Mantén las RPM altas todo el tiempo y mantén el cuerpo erguido con buena técnica. Haz entre 5 y 10 minutos de estiramientos suaves para terminar.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 2,
+      "phase": 1,
+      "day": "Miércoles",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta continua 50",
+      "duration": "0:50",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 95 RPM",
+        "Repite lo siguiente 3 veces:",
+        "Bloque 2: 3 min en Z1 una única pierna a 90 RPM alternando piernas cada 30 s.",
+        "Bloque 3: 8 min en Z2 a 75 RPM",
+        "Bloque 4: 2 min en Z1 a 85 RPM Terminar con:",
+        "Bloque 5: 5 min en L1 de pedaleo suave."
+      ],
+      "notes": "Haz esta sesión en el Turbo o con rodillos.",
+      "zones": [
+        1,
+        2
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 2,
+      "phase": 1,
+      "day": "Jueves",
+      "discipline": "Natación",
+      "title": "Natación suave 1",
+      "duration": "1:00",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de combinado de estilo libre y espalda",
+        "Bloque 2: 3x200 m en Z1 Tirón + 20 s trabajando en el agarre anticipado",
+        "Bloque 3: 200 m en Z1 combinación de crol y patada",
+        "Bloque 1: 15 min en Z1",
+        "Bloque 2: 8 min en Z2",
+        "Bloque 3: 4 min en Z3",
+        "Bloque 4: 5 min en Z1"
+      ],
+      "notes": "Utiliza esta sesión para relajar las piernas después de los dos últimos días. Relájate en el agua y trabaja tu técnica Incremento de carrera 32: Antes de correr, haz de 10 a 15 minutos de ejercicios de fuerza del torso. Incrementa el ritmo durante la sesión y mantén la forma. Termina con 10 min de estiramiento",
+      "zones": [
+        1,
+        2,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 2,
+      "phase": 1,
+      "day": "Viernes",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta largo 90",
+      "duration": "0:90",
+      "blocks": [
+        "Repite lo siguiente 2 veces:",
+        "Bloque 1: 35 min en Z1",
+        "Bloque 2: 10 min en Z2"
+      ],
+      "notes": "Monta en bicicleta sobre terreno con cuestas. No te preocupes si tu frecuencia cardíaca llega a Z2 o incluso a Z3 durante períodos de tiempo cortos en los 45 minutos en Z1 por cuestas. No te levantes del sillín durante las cuestas y pedalea uniformemente.",
+      "zones": [
+        1,
+        2,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 2,
+      "phase": 1,
+      "day": "Sábado",
+      "discipline": "Carrera",
+      "title": "Trote suave 10",
+      "duration": "0:10",
+      "blocks": [
+        "Bloque 1: 10 min en Z1 Bajar de bicicleta y carrera. El objetivo es absorber de 30 a 50 gramos de carbohidratos por hora."
+      ],
+      "notes": null,
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 2,
+      "phase": 1,
+      "day": "Domingo",
+      "discipline": "Descanso",
+      "title": "Día libre movible sería",
+      "duration": null,
+      "blocks": [],
+      "notes": "recomendable tomarte el día libre ahora, pero puedes cambiarlo a otro día de la semana si se ajusta mejor a tu calendario, pero evita hacer las sesiones fuertes seguidas. Cuida tu alimentación, especialmente la de recuperación tras una sesión fuerte o larga, que es cuando necesitas tomar carbohidratos y proteínas en los 30 primeros minutos después de acabar. PLAN DE ENTRENAMIENTO TRIATLÓN PROGRAMA 12 SEMANAS - NIVEL PRINCIPIANTE SPRINT 5 WWW.GARMIN.ES Semana Lunes Martes Miércoles Jueves Viernes Sábado Domingo",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 3,
+      "phase": 1,
+      "day": "Lunes",
+      "discipline": "Carrera",
+      "title": "Carrera técnica 30",
+      "duration": "0:30",
+      "blocks": [
+        "Bloque 1: 10 min en Z1",
+        "Repite lo siguiente 6 veces:",
+        "Bloque 2: 1 min en Z3",
+        "Bloque 3: 1 min en Z1",
+        "Bloque 4: 8 min en Z1"
+      ],
+      "notes": "Trabaja tu técnica durante la variación de ritmo. Mantén las RPM altas, el cuerpo erguido y levanta las rodillas aunque corras rápido o despacio.",
+      "zones": [
+        1,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 3,
+      "phase": 1,
+      "day": "Martes",
+      "discipline": "Natación",
+      "title": "Natación suave 1.3",
+      "duration": "1:18",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de combinado de estilo libre y espalda",
+        "Bloque 2: 3x300 m en Z1 Tirón + 30 s trabajando en el agarre anticipado",
+        "Bloque 3: 200 m en Z1 combinación de crol y patada"
+      ],
+      "notes": "Leve aumento de distancia. Sigue centrándote en la técnica más que en la velocidad. Esta sesión te ayudará a aumentar tu base aeróbica sin exigir demasiado del cuerpo.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 3,
+      "phase": 1,
+      "day": "Miércoles",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta continua 50",
+      "duration": "0:50",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 95 RPM",
+        "Repite lo siguiente 3 veces:",
+        "Bloque 2: 3 min en Z1 una única pierna a 90 RPM alternando piernas cada 30 s",
+        "Bloque 3: 8 min en Z2 a 75 RPM",
+        "Bloque 4: 2 min en Z1 a 85 RPM Terminar con:",
+        "Bloque 5: 5 min en L1 de pedaleo suave."
+      ],
+      "notes": "Haz esta sesión en el Turbo o con rodillos.",
+      "zones": [
+        1,
+        2
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 3,
+      "phase": 1,
+      "day": "Jueves",
+      "discipline": "Multideporte",
+      "title": "Sesión opcional",
+      "duration": null,
+      "blocks": [],
+      "notes": "Si estás cansado, tómate el día libre; de lo contrario, trabaja la disciplina en la que peor vayas: Carrera suave 20 o Bicicleta suave 50 o Natación continua 1.3. Trabaja la técnica. No te preocupes por la velocidad, haz unos kilómetros más en el deporte en que peor vayas.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 3,
+      "phase": 1,
+      "day": "Viernes",
+      "discipline": "Descanso",
+      "title": "Día libre ¿son muy viejas las",
+      "duration": null,
+      "blocks": [],
+      "notes": "zapatillas con las que corres? Una causa común de lesiones se debe a que las zapatillas de correr pierden el muelle o el soporte por antigüedad o desgaste. Si tus zapatillas tienen más de un año de antigüedad o has estado corriendo mucho en los últimos seis meses, puede que merezca la pena un nuevo par. Sesión de entrenamiento",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 3,
+      "phase": 1,
+      "day": "Sábado",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta suave 40",
+      "duration": "0:40",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 90 RPM",
+        "Bloque 2: 5 min en Z1 a 80 RPM.",
+        "Bloque 3: 25 min en Z1 a 95 RPM",
+        "Bloque 4: 5 min muy suave Bájate de la bici y directo a:"
+      ],
+      "notes": null,
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 3,
+      "phase": 1,
+      "day": "Sábado",
+      "discipline": "Carrera",
+      "title": "Trote suave 20",
+      "duration": "0:20",
+      "blocks": [
+        "Bloque 1: 20 min en Z1. Mantén las RPM altas nada más salir con la bicicleta. Intenta conseguir unas 93-95 RPM. Recuerda mantenerte hidratado durante la sesión.",
+        "Bloque 1: 5 min en Z1",
+        "Repite lo siguiente 2 veces:",
+        "Bloque 2: 8 min en Z2 respirando bilateralmente si puedes",
+        "Bloque 3: 2 min de recuperación Terminar con:",
+        "Bloque 4: 5 min en Z1 con patadas y natación."
+      ],
+      "notes": "Aguas ab. continua 30: Nada en aguas abiertas para irte acostumbrando a ese entorno. Hazlo bien, de manera relajada y disfrútalo.",
+      "zones": [
+        1,
+        2
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 4,
+      "phase": 1,
+      "day": "Lunes",
+      "discipline": "Descanso",
+      "title": "Cuatro Día libre",
+      "duration": null,
+      "blocks": [],
+      "notes": "Ésta es una semana de pruebas y recuperación. Aprovecha unas sesiones más suaves y unos días libres para prepararte mentalmente para las siguientes semanas de duro trabajo.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 4,
+      "phase": 1,
+      "day": "Martes",
+      "discipline": "Natación",
+      "title": "Natación técnica .1.2",
+      "duration": "1:12",
+      "blocks": [
+        "Bloque 1: 300 m en Z1 de natación combinada de estilo libre y espalda.",
+        "Bloque 2: 5x (25 m patada, 50 m técnica, 75 m natación) Todo en",
+        "Bloque 3: 150 m Tirón o Natación en Z1."
+      ],
+      "notes": "Z1+20 s. Intenta que un entrenador de natación observe tu brazada y te dé algún consejo para mejorar tu técnica.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 4,
+      "phase": 1,
+      "day": "Miércoles",
+      "discipline": "Descanso",
+      "title": "Día libre",
+      "duration": null,
+      "blocks": [],
+      "notes": "Haz estiramientos suaves o ve a una clase de yoga si puedes. Lleva la bicicleta a que le hagan una revisión si llevas tiempo sin hacerlo.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 4,
+      "phase": 1,
+      "day": "Jueves",
+      "discipline": "Carrera",
+      "title": "Carrera de prueba 40",
+      "duration": "0:40",
+      "blocks": [
+        "Bloque 1: 5 min en Z1",
+        "Bloque 2: 3 min en Z2",
+        "Bloque 3: 2 min en Z3",
+        "Bloque 4: 5 min en Z1",
+        "Bloque 5: 3 km TT Mejor serie.",
+        "Bloque 5: 10 min en Z1"
+      ],
+      "notes": "Tiempo récord y frecuencia cardíaca Corre sobre una superficie plana. Intenta utilizar la misma ubicación para las siguientes pruebas. No empieces demasiado fuerte, intenta ir aumentando la intensidad a lo largo de la serie",
+      "zones": [
+        1,
+        2,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 4,
+      "phase": 1,
+      "day": "Viernes",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta suave 50",
+      "duration": "0:50",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 90 RPM",
+        "Bloque 2: 5 min en Z1 a 80 RPM.",
+        "Bloque 3: 35 min en Z1 pedaleando a 90-95 RPM.",
+        "Bloque 4: 5 min muy suave"
+      ],
+      "notes": "Puedes hacerlo en carretera o turbo. Realiza un pedaleo suave. Esto ayudará a que tus piernas se recuperen de la dura carrera de ayer",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 4,
+      "phase": 1,
+      "day": "Sábado",
+      "discipline": "Natación",
+      "title": "Natación de prueba 1.3",
+      "duration": "1:18",
+      "blocks": [
+        "Bloque 1: 300 m en Z1 de natación con algo de espalda.",
+        "Bloque 2: 4x50 m + 15 s incrementando cada 50 m Z1-Z2-",
+        "Bloque 3: 50 m en Z1 de recuperación.",
+        "Bloque 4: 400 m TT intentando lograr el mejor tiempo posible.",
+        "Bloque 5: 4x25 m patada en Z2 + 10 s, 150 m en Z1 natación."
+      ],
+      "notes": "Z3-Z4. No salgas demasiado fuerte. Comprueba tu tiempo y la frecuencia cardíaca cuando termines de nadar.",
+      "zones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 4,
+      "phase": 1,
+      "day": "Domingo",
+      "discipline": "Descanso",
+      "title": "Día libre movible sería",
+      "duration": null,
+      "blocks": [],
+      "notes": "recomendable tomarte el día libre ahora, pero puedes cambiarlo a otro día de la semana si se ajusta mejor a tu calendario, pero evita hacer las sesiones fuertes seguidas. PLAN DE ENTRENAMIENTO TRIATLÓN PROGRAMA 12 SEMANAS - NIVEL PRINCIPIANTE SPRINT 6 WWW.GARMIN.ES Fase dos - Desarrollar resistencia específica - Esta fase desarrolla lo que has conseguido en la fase Base e introduce más carrera - sesiones específicas en las que trabajas con la intensidad de carrera o por encima de esta. Semana Lunes Martes Miércoles Jueves Viernes Sábado Domingo",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 5,
+      "phase": 2,
+      "day": "Lunes",
+      "discipline": "Natación",
+      "title": "Natación continua 1.4",
+      "duration": "1:24",
+      "blocks": [
+        "Bloque 1: 3x100 m Z1 + 10 s",
+        "Bloque 2: 3x300 m en Z2 de natación + 30 s.",
+        "Bloque 3: 200 m en Z1 de combinado de estilo libre y espalda"
+      ],
+      "notes": "Combinación de patada, tirón y natación Intenta mantener las mismas velocidades con respecto a la sesión de Natación continua 1.6 de la semana pasada en la que estabas haciendo 100 repeticiones.",
+      "zones": [
+        1,
+        2
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 5,
+      "phase": 2,
+      "day": "Martes",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta de prueba 60",
+      "duration": "0:60",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 85 RPM",
+        "Bloque 2: 5 min en Z2 a 90 RPM",
+        "Bloque 3: 5 min en Z3 a 95 RPM",
+        "Bloque 4: 5 min en Z1",
+        "Bloque 5: 16 km TT mejor serie.",
+        "Bloque 5: 10 min en Z1"
+      ],
+      "notes": "Tiempo récord y frecuencia cardíaca Intenta utilizar la misma ubicación para las siguientes pruebas: Carretera o Turbo",
+      "zones": [
+        1,
+        2,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 5,
+      "phase": 2,
+      "day": "Miércoles",
+      "discipline": "Carrera",
+      "title": "Trote suave 30",
+      "duration": "0:30",
+      "blocks": [
+        "Bloque 1: 30 min en Z1"
+      ],
+      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. El objetivo es mantener una frecuencia cardíaca y un ritmo constantes, por lo que no debes empezar muy fuerte. Debes terminar sintiéndote bien. Termina con 5 min de estiramiento.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 5,
+      "phase": 2,
+      "day": "Jueves",
+      "discipline": "Descanso",
+      "title": "Día libre",
+      "duration": null,
+      "blocks": [],
+      "notes": "¿Estás cómodo en la bicicleta? Hay mucha gente que gasta una gran cantidad de dinero en comprar una bicicleta y luego nunca llegan a equiparla como es debido. Un gasto de 100 o 200 euros es una inversión que merece la pena. No sólo te ayudará a estar más cómodo en la bicicleta y a trabajar con más eficiencia, sino que además te ayudará en la carrera porque no te bajarás de ella tan cansado.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 5,
+      "phase": 2,
+      "day": "Viernes",
+      "discipline": "Natación",
+      "title": "Natación suave 1.3",
+      "duration": "1:18",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de combinado de estilo libre y espalda",
+        "Bloque 2: 3x300 m en Z1 Tirón + 30 s trabajando en el agarre anticipado",
+        "Bloque 3: 200 m en Z1 combinación de crol y patada"
+      ],
+      "notes": "Comprara los tiempos y recuentos de brazadas con los de la misma sesión en la semana 3. Deberías estar nadando más rápido con el mismo recuento de brazadas o utilizando menos brazadas para la misma velocidad.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 5,
+      "phase": 2,
+      "day": "Sábado",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta largo 120",
+      "duration": "0:120",
+      "blocks": [
+        "Repite lo siguiente 2 veces:",
+        "Bloque 1: 45 min en Z1",
+        "Bloque 2: 15 min en Z2"
+      ],
+      "notes": "Llevar el recorrido largo más allá. Monta en bicicleta sobre terreno con cuestas. No te levantes del sillín durante las cuestas y pedalea uniformemente. Termina con algo dulce",
+      "zones": [
+        1,
+        2
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 5,
+      "phase": 2,
+      "day": "Domingo",
+      "discipline": "Carrera",
+      "title": "Rodaje largo 50",
+      "duration": "0:50",
+      "blocks": [
+        "Bloque 1: 50 min de carrera en"
+      ],
+      "notes": "Z1. Mantén la intensidad constante a lo largo de la sesión. Puede que tengas las piernas cansadas del recorrido largo del día anterior, por lo que debes centrarte en mantener una buena forma. Mantén las RPM altas y el cuerpo erguido.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 6,
+      "phase": 2,
+      "day": "Lunes",
+      "discipline": "Descanso",
+      "title": "Día libre movible",
+      "duration": null,
+      "blocks": [],
+      "notes": "Actualiza hoy tu diario de entrenamiento si llevas un tiempo sin hacerlo. Es bueno añadir comentarios sobre cómo te has sentido y las condiciones de cuando estabas entrenando para dar más información sobre cómo llevas el entrenamiento",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 6,
+      "phase": 2,
+      "day": "Martes",
+      "discipline": "Natación",
+      "title": "Natación ritmo 1.6",
+      "duration": "1:36",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de estilo libre y espalda",
+        "Bloque 2: 2x50 m en Z1 de técnica + 10 s",
+        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m Z1-Z2-",
+        "Bloque 4: 3x300 m en Z3 de natación + 30 s",
+        "Bloque 5: 200 m en Z1 de estilo libre y espalda"
+      ],
+      "notes": "Z3-Z4. Intenta alcanzar tu velocidad de carrera objetivo en los 300.",
+      "zones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 6,
+      "phase": 2,
+      "day": "Miércoles",
+      "discipline": "Carrera",
+      "title": "Trote suave 30",
+      "duration": "0:30",
+      "blocks": [
+        "Bloque 1: 30 min en Z1"
+      ],
+      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. Sigue trabajando tu técnica incluso cuando estés corriendo suave. No la descuides. Levanta las rodillas, mantén el cuerpo erguido y mantén las RPM en torno a 93-95",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 6,
+      "phase": 2,
+      "day": "Jueves",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta con cuestas 90",
+      "duration": "0:90",
+      "blocks": [
+        "Repite lo siguiente 3 veces:",
+        "Bloque 1: 20 min en Z1 a 90 RPM",
+        "Bloque 2: 10 min en Z2 a 75 RPM"
+      ],
+      "notes": "Recorrido largo sobre terreno con cuestas. Pedalea uniformemente en las cuestas. Recuerda hidratarte y alimentarte durante el recorrido.",
+      "zones": [
+        1,
+        2
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 6,
+      "phase": 2,
+      "day": "Viernes",
+      "discipline": "Natación",
+      "title": "Natación continua 1.5",
+      "duration": "1:30",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de natación con algo de espalda.",
+        "Bloque 2: 2x50 m de patada en",
+        "Bloque 3: 2x500 m de natación en Z2 + 50 s.",
+        "Bloque 4: 200 m en Z1 de natación."
+      ],
+      "notes": "Z1 + 10 s. Repeticiones algo más largas para mejorar la resistencia. Sigue contando las brazadas cada tercer largo de 50 m para comprobar que mantienes la forma Sesión de entrenamiento bicicleta-carrera,",
+      "zones": [
+        1,
+        2
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 6,
+      "phase": 2,
+      "day": "Sábado",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta ritmo 60",
+      "duration": "0:60",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 85 RPM",
+        "Bloque 2: 5 min en Z2 a 90 RPM",
+        "Bloque 3: 5 min en Z3 a 95 RPM",
+        "Bloque 4: 5 min en Z1",
+        "Bloque 5: 30 min en Z3 a 95 RPM",
+        "Bloque 6: 10 min en Z1 Bajar de bicicleta y carrera"
+      ],
+      "notes": null,
+      "zones": [
+        1,
+        2,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 6,
+      "phase": 2,
+      "day": "Sábado",
+      "discipline": "Carrera",
+      "title": "Carrera ritmo 20",
+      "duration": "0:20",
+      "blocks": [
+        "Bloque 1: 10 min en Z3",
+        "Bloque 2: 10 min en Z1"
+      ],
+      "notes": "Trabaja en tu postura durante la carrera.",
+      "zones": [
+        1,
+        3
+      ],
+      "main_zone": 3
+    },
+    {
+      "week": 6,
+      "phase": 2,
+      "day": "Domingo",
+      "discipline": "Multideporte",
+      "title": "Sesión opcional",
+      "duration": null,
+      "blocks": [],
+      "notes": "Si estás cansado, tómate el día libre; de lo contrario, trabaja la disciplina en la que peor vayas: Carrera suave 20 o Bicicleta suave 50 o Natación suave 1.3. Trabaja la técnica. No te preocupes por la velocidad, haz unos kilómetros más en el deporte en que peor vayas. ¡Enhorabuena! Ya has llegado a la mitad de la preparación. Intenta mantener la constancia en el entrenamiento. PLAN DE ENTRENAMIENTO TRIATLÓN PROGRAMA 12 SEMANAS - NIVEL PRINCIPIANTE SPRINT 7 WWW.GARMIN.ES Semana Lunes Martes Miércoles Jueves Viernes Sábado Domingo",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 7,
+      "phase": 2,
+      "day": "Lunes",
+      "discipline": "Natación",
+      "title": "Natación suave 1.4",
+      "duration": "1:24",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de combinado de estilo libre y espalda",
+        "Bloque 2: 5x200 m en Z1 Tirón + 20 s trabajando en el agarre anticipado",
+        "Bloque 3: 200 m en Z1 combinación de crol y patada"
+      ],
+      "notes": "Utiliza esta sesión para relajar las piernas después de los dos últimos días. Relájate en el agua y trabaja tu técnica",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 7,
+      "phase": 2,
+      "day": "Martes",
+      "discipline": "Carrera",
+      "title": "Carrera Fartlek 40",
+      "duration": "0:40",
+      "blocks": [
+        "Bloque 1: 5 min en Z1",
+        "Bloque 2: 4 min en Z2",
+        "Bloque 3: 3 min en Z3",
+        "Bloque 4: 2 min de recuperación",
+        "Repite lo siguiente 4 veces:",
+        "Bloque 5: 2 min en Z3",
+        "Bloque 6: 1 min en Z1",
+        "Bloque 7: 1 min en Z4",
+        "Bloque 8: 1 min en Z1",
+        "Bloque 7: 6 min en Z1"
+      ],
+      "notes": "Termina con lo siguiente: Asegúrate de que tienes alimentos a mano para reponer fuerzas antes de empezar este ejercicio.",
+      "zones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 7,
+      "phase": 2,
+      "day": "Miércoles",
+      "discipline": "Descanso",
+      "title": "Día libre movible sería",
+      "duration": null,
+      "blocks": [],
+      "notes": "recomendable tomarte el día libre ahora, pero puedes cambiarlo a otro día de la semana si se ajusta mejor a tu calendario, pero evita hacer las sesiones fuertes seguidas .",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 7,
+      "phase": 2,
+      "day": "Jueves",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta con cuestas 90",
+      "duration": "0:90",
+      "blocks": [
+        "Repite lo siguiente 3 veces:",
+        "Bloque 1: 20 min en Z1 a 90 RPM",
+        "Bloque 2: 10 min en Z2 a 75 RPM"
+      ],
+      "notes": "Recorrido largo sobre terreno con cuestas. Pedalea uniformemente en las cuestas. Recuerda hidratarte y alimentarte durante el recorrido.",
+      "zones": [
+        1,
+        2
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 7,
+      "phase": 2,
+      "day": "Viernes",
+      "discipline": "Natación",
+      "title": "Natación ritmo 1.6",
+      "duration": "1:36",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de estilo libre y espalda",
+        "Bloque 2: 2x50 m en Z1 de técnica + 10 s",
+        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en",
+        "Bloque 4: 3x300 m en Z3 de natación + 30 s",
+        "Bloque 5: 200 m en Z1 de estilo libre y espalda"
+      ],
+      "notes": "Z1-Z2-Z3-Z4. Intenta alcanzar tu velocidad de carrera objetivo en los 300.",
+      "zones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 7,
+      "phase": 2,
+      "day": "Sábado",
+      "discipline": "Carrera",
+      "title": "Rodaje largo 60",
+      "duration": "0:60",
+      "blocks": [
+        "Bloque 1: 60 min de carrera en"
+      ],
+      "notes": "Z1. Leve aumento de la longitud del rodaje largo. Sigue trabajando tu técnica. Lleva encima dos geles y tómate uno a los 20 minutos y otro a los 40 minutos para mantener el nivel de energía que necesitas y ayudarte a recuperarte antes.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 7,
+      "phase": 2,
+      "day": "Domingo",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta suave 60",
+      "duration": "0:60",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 90 RPM",
+        "Bloque 2: 5 min en Z1 a 80 RPM.",
+        "Bloque 3: 45 min en Z1 pedaleando a 90-95 RPM.",
+        "Bloque 4: 5 min muy suave"
+      ],
+      "notes": "Puedes hacerlo en carretera o turbo. Realiza un pedaleo suave. Esto ayudará a que tus piernas se recuperen de la dura carrera de ayer",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 8,
+      "phase": 2,
+      "day": "Lunes",
+      "discipline": "Descanso",
+      "title": "Día libre",
+      "duration": null,
+      "blocks": [],
+      "notes": "Ésta es una semana de pruebas y recuperación, así que relájate y disfruta de alguna sesión más suave.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 8,
+      "phase": 2,
+      "day": "Martes",
+      "discipline": "Descanso",
+      "title": "Día libre movible",
+      "duration": null,
+      "blocks": [],
+      "notes": "Haz un poco de estiramiento suave o que te den un masaje, si es posible.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 8,
+      "phase": 2,
+      "day": "Miércoles",
+      "discipline": "Carrera",
+      "title": "Trote suave 40",
+      "duration": "0:40",
+      "blocks": [
+        "Bloque 1: 40 min en Z1"
+      ],
+      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. Si te duelen las piernas, puedes hacer esta sesión como aqua- jogging en la piscina.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 8,
+      "phase": 2,
+      "day": "Jueves",
+      "discipline": "Natación",
+      "title": "Natación de prueba 1.3",
+      "duration": "1:18",
+      "blocks": [
+        "Bloque 1: 300 m en Z1 de natación con algo de espalda.",
+        "Bloque 2: 4x50 m + 15 s incrementando cada 50 m Z1-Z2-",
+        "Bloque 3: 50 m en Z1 de recuperación.",
+        "Bloque 4: 400 m TT intentando lograr el mejor tiempo. Compara el resultado con la prueba en la semana 2. Controla tu intensidad al principio",
+        "Bloque 5: 4x25 m patada en Z2 + 10 s, 150 m de natación en Z1."
+      ],
+      "notes": "Z3-Z4.",
+      "zones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 8,
+      "phase": 2,
+      "day": "Viernes",
+      "discipline": "Multideporte",
+      "title": "Sesión opcional",
+      "duration": null,
+      "blocks": [],
+      "notes": "Si estás cansado, tómate el día libre; de lo contrario, trabaja la disciplina en la que peor vayas: Carrera suave 20 o Bicicleta suave 50 o Natación suave 1.3. Trabaja la técnica. No te preocupes por la velocidad, haz unos kilómetros más en el deporte en que peor vayas.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 8,
+      "phase": 2,
+      "day": "Sábado",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta de prueba 60",
+      "duration": "0:60",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 85 RPM",
+        "Bloque 2: 5 min en Z2 a 90 RPM",
+        "Bloque 3: 5 min en Z3 a 95 RPM",
+        "Bloque 4: 5 min en Z1",
+        "Bloque 5: 16 km TT mejor serie.",
+        "Bloque 5: 10 min en Z1"
+      ],
+      "notes": "Tiempo récord y frecuencia cardíaca Utiliza la misma ubicación que la prueba en la semana 3.",
+      "zones": [
+        1,
+        2,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 8,
+      "phase": 2,
+      "day": "Domingo",
+      "discipline": "Carrera",
+      "title": "Rodaje largo 60",
+      "duration": "0:60",
+      "blocks": [
+        "Bloque 1: 60 min de carrera en"
+      ],
+      "notes": "Z1. Recuerda seguir trabajando la técnica - rodillas arriba, RPM en torno a 94 y cuerpo erguido. PLAN DE ENTRENAMIENTO TRIATLÓN PROGRAMA 12 SEMANAS - NIVEL PRINCIPIANTE SPRINT 8 WWW.GARMIN.ES Fase tres - Específico para carrera - Ya has hecho la mayor parte del trabajo duro y las sesiones serán a continuación más cortas pero a menudo más intensas. Ahora debes esforzarte al máximo como harás en la competición y comprender cómo llevar el ritmo adecuado. Semana Lunes Martes Miércoles Jueves Viernes Sábado Domingo",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 9,
+      "phase": 3,
+      "day": "Lunes",
+      "discipline": "Natación",
+      "title": "Natación ritmo 1.6",
+      "duration": "1:36",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de estilo libre y espalda",
+        "Bloque 2: 2x50 m en Z1 de técnica + 10 s",
+        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en",
+        "Bloque 4: 800 m en Z3 de natación + 30 s",
+        "Bloque 5: 200 m en Z1 de estilo libre y espalda"
+      ],
+      "notes": "Z1-Z2-Z3-Z4. Utiliza la repetición de 800 m para practicar y coger el ritmo adecuado para tu carrera. Visualízate nadando en la competición.",
+      "zones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 9,
+      "phase": 3,
+      "day": "Martes",
+      "discipline": "Descanso",
+      "title": "Día libre movible sería",
+      "duration": null,
+      "blocks": [],
+      "notes": "recomendable tomarte el día libre ahora, pero puedes cambiarlo a otro día de la semana si se ajusta mejor a tu calendario, pero evita hacer demasiadas sesiones fuertes seguidas .",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 9,
+      "phase": 3,
+      "day": "Miércoles",
+      "discipline": "Carrera",
+      "title": "Carrera de prueba 40",
+      "duration": "0:40",
+      "blocks": [
+        "Bloque 1: 5 min en Z1",
+        "Bloque 2: 3 min en Z2",
+        "Bloque 3: 2 min en Z3",
+        "Bloque 4: 5 min en Z1",
+        "Bloque 5: 3 km TT Mejor serie.",
+        "Bloque 5: 10 min en Z1"
+      ],
+      "notes": "Tiempo récord y frecuencia cardíaca Utiliza la misma ubicación que la prueba de carrera en la semana 4. No salgas demasiado fuerte, controla el ritmo. Usa el mismo calzado con el que vas a correr y no lleves calcetines si no los vas a utilizar posteriormente en la carrera",
+      "zones": [
+        1,
+        2,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 9,
+      "phase": 3,
+      "day": "Jueves",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta suave 60",
+      "duration": "0:60",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 90 RPM",
+        "Bloque 2: 5 min en Z1 a 80 RPM.",
+        "Repite lo siguiente 5 veces:",
+        "Bloque 3: 15 s en Z5 pedaleando a 100-105 RPM.",
+        "Bloque 4: 4 min 45 s en Z1 a 90",
+        "Bloque 4: 5 min en Z1"
+      ],
+      "notes": "RPM Terminar con: Los sprints te ayudarán a activar las piernas.",
+      "zones": [
+        1,
+        5
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 9,
+      "phase": 3,
+      "day": "Viernes",
+      "discipline": "Natación",
+      "title": "Natación técnica 1.2",
+      "duration": "1:12",
+      "blocks": [
+        "Bloque 1: 300 m en Z1 de natación combinada de estilo libre y espalda.",
+        "Bloque 2: 5x (25 m patada, 50 m técnica, 75 m natación) Todo en",
+        "Bloque 3: 150 m Tirón o"
+      ],
+      "notes": "Z1+20 s. Natación en Z1. Trabaja tu recuperación y agarre al principio de la brazada. Sesión de entrenamiento de simulación de carrera,",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 9,
+      "phase": 3,
+      "day": "Sábado",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta ritmo 50",
+      "duration": "0:50",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 85 RPM",
+        "Bloque 2: 5 min en Z2 a 90 RPM",
+        "Bloque 3: 5 min en Z3 a 95 RPM",
+        "Bloque 4: 5 min en Z1",
+        "Bloque 5: 20 km en Z3 a 95 RPM Bajar de bicicleta y carrera"
+      ],
+      "notes": null,
+      "zones": [
+        1,
+        2,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 9,
+      "phase": 3,
+      "day": "Sábado",
+      "discipline": "Carrera",
+      "title": "Carrera ritmo 25",
+      "duration": "0:25",
+      "blocks": [
+        "Bloque 1: 3 km en Z3",
+        "Bloque 2: 10 min en Z1"
+      ],
+      "notes": "Utiliza esta sesión para practicar el ritmo de la carrera. Utiliza el equipamiento para carrera.",
+      "zones": [
+        1,
+        3
+      ],
+      "main_zone": 3
+    },
+    {
+      "week": 9,
+      "phase": 3,
+      "day": "Domingo",
+      "discipline": "Carrera",
+      "title": "Trote suave 30",
+      "duration": "0:30",
+      "blocks": [
+        "Bloque 1: 30 min en Z1"
+      ],
+      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. El objetivo es mantener una frecuencia cardíaca y un ritmo constantes, por lo que no debes empezar muy fuerte. Debes terminar sintiéndote bien. Termina con 5 min de estiramiento.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 10,
+      "phase": 3,
+      "day": "Lunes",
+      "discipline": "Natación",
+      "title": "Natación máximo 1.2",
+      "duration": "1:12",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de natación con algo de espalda.",
+        "Bloque 2: 2x50 m de patada en",
+        "Bloque 3: 4x50 m como 25 m en",
+        "Bloque 4: 100 m en Z1 de natación y patada",
+        "Bloque 5: 400 m en Z3 de natación",
+        "Bloque 6: 200 m en Z1 de natación."
+      ],
+      "notes": "Z1 + 10 s. Z5, 25 m en Z1 + 30 s",
+      "zones": [
+        1,
+        3,
+        5
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 10,
+      "phase": 3,
+      "day": "Martes",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta suave 60",
+      "duration": "0:60",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 90 RPM",
+        "Bloque 2: 5 min en Z1 a 80 RPM.",
+        "Repite lo siguiente 5 veces:",
+        "Bloque 3: 15 s en Z5 pedaleando a 100-105 RPM.",
+        "Bloque 4: 4 min 45 s en Z1 a 90",
+        "Bloque 4: 5 min en Z1",
+        "Bloque 1: 15 min en Z1",
+        "Bloque 2: 12 min en Z2",
+        "Bloque 3: 8 min en Z3",
+        "Bloque 4: 5 min en Z1"
+      ],
+      "notes": "RPM Terminar con: Puedes hacerlo en carretera o turbo. Los sprints te ayudarán a activar tus piernas. Incremento de carrera 40: Intenta mantener el mismo ritmo que en el incremento de carrera de la semana pasada pero durante algo más de tiempo. Termina con 10 min de estiramiento",
+      "zones": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 10,
+      "phase": 3,
+      "day": "Miércoles",
+      "discipline": "Descanso",
+      "title": "Día libre",
+      "duration": null,
+      "blocks": [],
+      "notes": "Quédate durmiendo hasta más tarde y haz unos estiramientos suaves o yoga por la tarde. Reserva ahora la revisión de la bicicleta para que no tengas que hacerlo en el último momento justo antes de la carrera.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 10,
+      "phase": 3,
+      "day": "Jueves",
+      "discipline": "Natación",
+      "title": "Natación ritmo 1.6",
+      "duration": "1:36",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de estilo libre y espalda",
+        "Bloque 2: 2x50 m en Z1 de técnica + 10 s",
+        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en",
+        "Bloque 4: 800 m en Z3 de natación + 30 s",
+        "Bloque 5: 200 m en Z1 de estilo libre y espalda"
+      ],
+      "notes": "Z1-Z2-Z3-Z4. Utiliza la repetición de 800 m para practicar y coger el ritmo adecuado para tu carrera. Visualízate nadando en la competición.",
+      "zones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 10,
+      "phase": 3,
+      "day": "Viernes",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta largo 90",
+      "duration": "0:90",
+      "blocks": [
+        "Repite lo siguiente 2 veces:",
+        "Bloque 1: 35 min en Z1",
+        "Bloque 2: 10 min en Z2"
+      ],
+      "notes": "Monta en bicicleta sobre terreno con cuestas. No te preocupes si tu frecuencia cardíaca llega a Z2 o incluso a Z3 durante períodos de tiempo cortos en los 45 minutos en Z1 por cuestas.",
+      "zones": [
+        1,
+        2,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 10,
+      "phase": 3,
+      "day": "Sábado",
+      "discipline": "Carrera",
+      "title": "Trote suave 10",
+      "duration": "0:10",
+      "blocks": [
+        "Bloque 1: 10 min en Z1 Bajar de bicicleta y carrera. El objetivo es absorber de 30 a 50 gramos de carbohidratos por hora."
+      ],
+      "notes": null,
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 10,
+      "phase": 3,
+      "day": "Domingo",
+      "discipline": "Carrera",
+      "title": "Trote suave 40",
+      "duration": "0:40",
+      "blocks": [
+        "Bloque 1: 40 min en Z1"
+      ],
+      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. Si te duelen las piernas, puedes hacer esta sesión como aqua- jogging en la piscina. PLAN DE ENTRENAMIENTO TRIATLÓN PROGRAMA 12 SEMANAS - NIVEL PRINCIPIANTE SPRINT 9 WWW.GARMIN.ES Semana Lunes Martes Miércoles Jueves Viernes Sábado Domingo",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 11,
+      "phase": 3,
+      "day": "Lunes",
+      "discipline": "Natación",
+      "title": "Natación suave 1.6",
+      "duration": "1:36",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de combinado de estilo libre y espalda",
+        "Bloque 2: 3x400 m en Z1 Tirón + 20 s trabajando en el agarre anticipado",
+        "Bloque 3: 200 m en Z1 combinación de crol y patada"
+      ],
+      "notes": "Repeticiones más largas para prepararte para la carrera. Si vas a competir en traje de neopreno, utilízalo durante la sesión o en parte de ella.",
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 11,
+      "phase": 3,
+      "day": "Martes",
+      "discipline": "Carrera",
+      "title": "Carrera Fartlek 40",
+      "duration": "0:40",
+      "blocks": [
+        "Bloque 1: 5 min en Z1",
+        "Bloque 2: 4 min en Z2",
+        "Bloque 3: 3 min en Z3",
+        "Bloque 4: 2 min de recuperación",
+        "Repite lo siguiente 4 veces:",
+        "Bloque 5: 2 min en Z3",
+        "Bloque 6: 1 min en Z1",
+        "Bloque 7: 1 min en Z4",
+        "Bloque 8: 1 min en Z1",
+        "Bloque 7: 6 min en Z1"
+      ],
+      "notes": "Termina con lo siguiente: No fuerces el ritmo, concéntrate en la técnica y deja que la velocidad aparezca por sí misma.",
+      "zones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 11,
+      "phase": 3,
+      "day": "Miércoles",
+      "discipline": "Multideporte",
+      "title": "Sesión opcional",
+      "duration": null,
+      "blocks": [],
+      "notes": "Día libre si estás cansado o trabaja la disciplina en la que peor vayas: Carrera suave 30 o Bicicleta suave 60 o Natación técnica 1.2. Trabaja la técnica. No te preocupes por la velocidad, haz unos kilómetros más en el deporte en que peor vayas.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 11,
+      "phase": 3,
+      "day": "Jueves",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta fuerte 55",
+      "duration": "0:55",
+      "blocks": [
+        "Bloque 1: 5 min en Z1 a 85 RPM",
+        "Bloque 2: 5 min en Z2 a 90 RPM",
+        "Bloque 3: 5 min en Z3 a 95 RPM",
+        "Bloque 4: 5 min en Z1",
+        "Repite 4 veces:",
+        "Bloque 5: 3 min en L4 a 95 RPM",
+        "Bloque 6: 2 min en L1 a 85 RPM",
+        "Bloque 7: 30 s en L5 a 100 RPM",
+        "Bloque 8: 2 min en L1 a 85 RPM Terminar con:",
+        "Bloque 7: 5 min en Z1 a 90 RPM"
+      ],
+      "notes": null,
+      "zones": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 11,
+      "phase": 3,
+      "day": "Viernes",
+      "discipline": "Natación",
+      "title": "Natación ritmo 1.6",
+      "duration": "1:36",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de estilo libre y espalda",
+        "Bloque 2: 2x50 m en Z1 de técnica + 10 s",
+        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en",
+        "Bloque 4: 800 m en Z3 de natación + 30 s",
+        "Bloque 5: 200 m en Z1 de estilo libre y espalda"
+      ],
+      "notes": "Z1-Z2-Z3-Z4. Utiliza la repetición de 800 m para practicar y coger el ritmo adecuado para tu carrera. Visualízate nadando en la competición.",
+      "zones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 11,
+      "phase": 3,
+      "day": "Sábado",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta largo 90",
+      "duration": "0:90",
+      "blocks": [
+        "Repite lo siguiente 2 veces:",
+        "Bloque 1: 35 min en Z1",
+        "Bloque 2: 10 min en Z2"
+      ],
+      "notes": "Monta en bicicleta sobre terreno con cuestas. No te preocupes si tu frecuencia cardíaca llega a Z2 o incluso a Z3 durante períodos de tiempo cortos en los 45 minutos en Z1 por cuestas. No te levantes del sillín durante las cuestas y pedalea uniformemente.",
+      "zones": [
+        1,
+        2,
+        3
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 11,
+      "phase": 3,
+      "day": "Domingo",
+      "discipline": "Carrera",
+      "title": "Trote suave 10",
+      "duration": "0:10",
+      "blocks": [
+        "Bloque 1: 10 min en Z1 Bajar de bicicleta y carrera. El objetivo es absorber de 30 a 50 gramos de carbohidratos por hora."
+      ],
+      "notes": null,
+      "zones": [
+        1
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 11,
+      "phase": 3,
+      "day": "Domingo",
+      "discipline": "Descanso",
+      "title": "Día libre",
+      "duration": null,
+      "blocks": [],
+      "notes": "Enhorabuena. Ya has realizado todo el trabajo duro. Empieza a visualizar tu carrera para prepararte mentalmente.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 12,
+      "phase": 3,
+      "day": "Lunes",
+      "discipline": "Natación",
+      "title": "Natación máximo 1.2",
+      "duration": "1:12",
+      "blocks": [
+        "Bloque 1: 200 m en Z1 de natación con algo de espalda.",
+        "Bloque 2: 2x50 m de patada en",
+        "Bloque 3: 4x50 m como 25 m en",
+        "Bloque 4: 100 m en Z1 de natación y patada",
+        "Bloque 5: 400 m en Z3 de natación",
+        "Bloque 6: 200 m en Z1 de natación."
+      ],
+      "notes": "Z1 + 10 s. Z5, 25 m en Z1 + 30 s",
+      "zones": [
+        1,
+        3,
+        5
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 12,
+      "phase": 3,
+      "day": "Martes",
+      "discipline": "Descanso",
+      "title": "Día libre",
+      "duration": null,
+      "blocks": [],
+      "notes": "Haz que te den un masaje pero sólo si te los han estado dando regularmente. De lo contrario, haz unos estiramientos suaves. Escribe un plan cronológico desde la tarde antes de la competición hasta el comienzo de ésta para que sepas exactamente lo que vas a hacer y dónde tienes que estar. Consulta el sitio Web de la carrera o la información que has recibido.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 12,
+      "phase": 3,
+      "day": "Miércoles",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta fuerte 30",
+      "duration": "0:30",
+      "blocks": [
+        "Bloque 1: 3 min en Z1 a 85 RPM",
+        "Bloque 2: 3 min en Z2 a 90 RPM",
+        "Bloque 3: 5 min en Z3 a 95 RPM",
+        "Bloque 4: 3 min en Z1",
+        "Repite 2 veces:",
+        "Bloque 5: 2 min en L4 a 95 RPM",
+        "Bloque 6: 1 min en L1 a 85 RPM",
+        "Bloque 7: 30 s en L5 a 100 RPM",
+        "Bloque 8: 2 min en L1 a 85 RPM Terminar con:",
+        "Bloque 7: 5 min en Z1 a 90 RPM"
+      ],
+      "notes": null,
+      "zones": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 12,
+      "phase": 3,
+      "day": "Jueves",
+      "discipline": "Descanso",
+      "title": "Día libre",
+      "duration": null,
+      "blocks": [],
+      "notes": "Empieza a organizar la equipación para la carrera y déjala en un lugar concreto o en la bolsa que te vas a llevar a la competición. Llévate repuestos de la equipación imprescindible como las gafas de protección, cordones de zapatillas, cámaras y una cubierta.",
+      "zones": [],
+      "main_zone": null
+    },
+    {
+      "week": 12,
+      "phase": 3,
+      "day": "Viernes",
+      "discipline": "Carrera",
+      "title": "Subir ritmo de carrera 20",
+      "duration": "0:20",
+      "blocks": [
+        "Bloque 1: 5 min en Z1",
+        "Repite lo siguiente 5 veces:",
+        "Bloque 2: 30 s en Z4",
+        "Bloque 3: 1,5 min en Z2 Terminar con:",
+        "Bloque 4: 5 min en Z1"
+      ],
+      "notes": "Corre sobre una superficie blanda con tus zapatillas si puedes. No fuerces el ritmo durante los ejercicios para coger ritmo de 30 s. Deberías empezar a sentirte muy bien, así que deja que llegue la velocidad de manera natural.",
+      "zones": [
+        1,
+        2,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 12,
+      "phase": 3,
+      "day": "Sábado",
+      "discipline": "Natación",
+      "title": "Natación suave .5",
+      "duration": "5:00",
+      "blocks": [
+        "Bloque 1: 100 m en Z1 + 20 s",
+        "Bloque 2: 100 m en Z2 + 20 s",
+        "Bloque 3: 100 m en Z3 + 20 s",
+        "Bloque 4: 4x25 m en Z4 + 20 s",
+        "Bloque 5: 100 m en Z1 de estilo libre y espalda"
+      ],
+      "notes": null,
+      "zones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "main_zone": 1
+    },
+    {
+      "week": 12,
+      "phase": 3,
+      "day": "Domingo",
+      "discipline": "Bicicleta",
+      "title": "Bicicleta suave 20",
+      "duration": "0:20",
+      "blocks": [
+        "Bloque 1: 20 min en Z2 a 95 RPM"
+      ],
+      "notes": "Utiliza el recorrido en bicicleta para comprobar las marchas y los frenos, y asegurarte además de que todo funciona bien. Intenta hacerlo por la mañana y relájate por la tarde. La carrera Llega con tiempo de sobra para no ir apurado y nervioso. Utiliza tu Garmin como guía en la competición, pero corre siguiendo tu instinto además de lo que te diga. La frecuencia cardíaca es a menudo más alta de lo normal, debido a la adrenalina. Intenta llevar un ritmo uniforme o correr más despacio en la primera mitad que en la segunda de cada etapa, como has practicado durante el entrenamiento. Lo más importante: pásatelo bien.",
+      "zones": [
+        2
+      ],
+      "main_zone": 2
+    }
+  ]
+}
