@@ -26,10 +26,15 @@ export const getDateForWeekDay = (startDate, weekNumber, dayName) => {
   return result;
 };
 
-// Formatear fecha como "12 Ene"
-export const formatDate = (date) => {
-  const months = ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'];
-  return `${date.getDate()} ${months[date.getMonth()]}`;
+// Formatear fecha como "12 Ene" o "12 Gener"
+export const formatDate = (date, format = 'default') => {
+  const monthsShort = ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'];
+  const monthsFull = ['Gener', 'Febrer', 'Març', 'Abril', 'Maig', 'Juny', 'Juliol', 'Agost', 'Setembre', 'Octubre', 'Novembre', 'Desembre'];
+
+  if (format === 'short') {
+    return `${date.getDate()} ${monthsFull[date.getMonth()]}`;
+  }
+  return `${date.getDate()} ${monthsShort[date.getMonth()]}`;
 };
 
 // Obtener el día de la semana abreviado

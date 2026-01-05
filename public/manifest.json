@@ -1,0 +1,18 @@
+{
+  "name": "Sprint Triathlon Training",
+  "short_name": "Tri Training",
+  "description": "12 semanas de preparación para tu primer triatlón",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1d29",
+  "theme_color": "#fbbf24",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/tritraining.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

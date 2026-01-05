@@ -23,7 +23,7 @@ const zoneColors = {
   5: '#a855f7'
 };
 
-function WorkoutCard({ workout, workoutDate, onToggleComplete }) {
+function WorkoutCard({ workout, workoutDate, workoutIndex, onToggleComplete }) {
   const [expanded, setExpanded] = useState(false);
 
   const getZoneLabel = (zone) => {
@@ -75,7 +75,7 @@ function WorkoutCard({ workout, workoutDate, onToggleComplete }) {
             className={`workout-checkbox ${workout.completed ? 'checked' : ''}`}
             onClick={(e) => {
               e.stopPropagation();
-              onToggleComplete(workout);
+              onToggleComplete(workout, workoutIndex);
             }}
           >
             {workout.completed && <span className="checkmark">✓</span>}

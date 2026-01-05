@@ -41,6 +41,30 @@
   margin-top: 1rem;
 }
 
+.reset-button {
+  width: 100%;
+  margin-top: 2rem;
+  padding: 1rem;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.reset-button:hover {
+  border-color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.reset-button:active {
+  transform: scale(0.98);
+}
+
 @media (max-width: 480px) {
   .app-title {
     font-size: 1.5rem;

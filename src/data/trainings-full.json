@@ -27,9 +27,9 @@
       "title": "Trote suave 20",
       "duration": "0:20",
       "blocks": [
-        "Bloque 1: 20 min en Z1"
+        "Bloque 1: 20 min en Z1 Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. El objetivo es mantener una frecuencia cardíaca y un ritmo constantes, por lo que no debes empezar muy fuerte. Debes terminar sintiéndote bien. Termina con 5 min de estiramiento."
       ],
-      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. El objetivo es mantener una frecuencia cardíaca y un ritmo constantes, por lo que no debes empezar muy fuerte. Debes terminar sintiéndote bien. Termina con 5 min de estiramiento.",
+      "notes": null,
       "zones": [
         1
       ],
@@ -75,10 +75,10 @@
       "duration": "8:00",
       "blocks": [
         "Bloque 1: 200 m en Z1 de natación combinada de estilo libre y espalda.",
-        "Bloque 2: 3x (25 m patada, 50 m técnica, 75 m natación) Todo en",
+        "Bloque 2: 3x (25 m patada, 50 m técnica, 75 m natación) Todo en Z1+20 s.",
         "Bloque 3: 150 m Tirón o Natación en Z1."
       ],
-      "notes": "Z1+20 s. Trabaja tu recuperación y agarre al principio de la brazada. Sesión de entrenamiento",
+      "notes": "Trabaja tu recuperación y agarre al principio de la brazada. Sesión de entrenamiento",
       "zones": [
         1
       ],
@@ -95,9 +95,9 @@
         "Bloque 1: 5 min en Z1 a 90 RPM",
         "Bloque 2: 5 min en Z1 a 80 RPM.",
         "Bloque 3: 25 min en Z1 a 95 RPM",
-        "Bloque 4: 5 min muy suave Bájate de la bici y directo a:"
+        "Bloque 4: 5 min muy suave"
       ],
-      "notes": null,
+      "notes": "Bájate de la bici y directo a:",
       "zones": [
         1
       ],
@@ -140,11 +140,11 @@
       "duration": "1:18",
       "blocks": [
         "Bloque 1: 200 m en Z1 de natación con algo de espalda.",
-        "Bloque 2: 2x50 m de patada en",
+        "Bloque 2: 2x50 m de patada en Z1 + 10 s.",
         "Bloque 3: 4x200 m natación o tirón en Z2 + 20 s.",
         "Bloque 4: 200 m en Z1 de natación. Cuenta las brazadas cada tercer largo de 50 m de tus 200 m e intenta reducir la cantidad de brazadas que das en las siguientes sesiones."
       ],
-      "notes": "Z1 + 10 s.",
+      "notes": null,
       "zones": [
         1,
         2
@@ -159,9 +159,9 @@
       "title": "Rodaje largo 45",
       "duration": "0:45",
       "blocks": [
-        "Bloque 1: 45 min de carrera en"
+        "Bloque 1: 45 min de carrera en Z1. Mantén la intensidad constante a lo largo de la sesión. Esto te ayudará a aumentar tu resistencia base para que puedas soportar el ejercicio a mayor intensidad más adelante. Mantén las RPM altas todo el tiempo y mantén el cuerpo erguido con buena técnica. Haz entre 5 y 10 minutos de estiramientos suaves para terminar."
       ],
-      "notes": "Z1. Mantén la intensidad constante a lo largo de la sesión. Esto te ayudará a aumentar tu resistencia base para que puedas soportar el ejercicio a mayor intensidad más adelante. Mantén las RPM altas todo el tiempo y mantén el cuerpo erguido con buena técnica. Haz entre 5 y 10 minutos de estiramientos suaves para terminar.",
+      "notes": null,
       "zones": [
         1
       ],
@@ -179,10 +179,10 @@
         "Repite lo siguiente 3 veces:",
         "Bloque 2: 3 min en Z1 una única pierna a 90 RPM alternando piernas cada 30 s.",
         "Bloque 3: 8 min en Z2 a 75 RPM",
-        "Bloque 4: 2 min en Z1 a 85 RPM Terminar con:",
+        "Bloque 4: 2 min en Z1 a 85 RPM",
         "Bloque 5: 5 min en L1 de pedaleo suave."
       ],
-      "notes": "Haz esta sesión en el Turbo o con rodillos.",
+      "notes": "Terminar con: Haz esta sesión en el Turbo o con rodillos.",
       "zones": [
         1,
         2
@@ -312,10 +312,10 @@
         "Repite lo siguiente 3 veces:",
         "Bloque 2: 3 min en Z1 una única pierna a 90 RPM alternando piernas cada 30 s",
         "Bloque 3: 8 min en Z2 a 75 RPM",
-        "Bloque 4: 2 min en Z1 a 85 RPM Terminar con:",
+        "Bloque 4: 2 min en Z1 a 85 RPM",
         "Bloque 5: 5 min en L1 de pedaleo suave."
       ],
-      "notes": "Haz esta sesión en el Turbo o con rodillos.",
+      "notes": "Terminar con: Haz esta sesión en el Turbo o con rodillos.",
       "zones": [
         1,
         2
@@ -357,9 +357,9 @@
         "Bloque 1: 5 min en Z1 a 90 RPM",
         "Bloque 2: 5 min en Z1 a 80 RPM.",
         "Bloque 3: 25 min en Z1 a 95 RPM",
-        "Bloque 4: 5 min muy suave Bájate de la bici y directo a:"
+        "Bloque 4: 5 min muy suave"
       ],
-      "notes": null,
+      "notes": "Bájate de la bici y directo a:",
       "zones": [
         1
       ],
@@ -377,10 +377,10 @@
         "Bloque 1: 5 min en Z1",
         "Repite lo siguiente 2 veces:",
         "Bloque 2: 8 min en Z2 respirando bilateralmente si puedes",
-        "Bloque 3: 2 min de recuperación Terminar con:",
+        "Bloque 3: 2 min de recuperación",
         "Bloque 4: 5 min en Z1 con patadas y natación."
       ],
-      "notes": "Aguas ab. continua 30: Nada en aguas abiertas para irte acostumbrando a ese entorno. Hazlo bien, de manera relajada y disfrútalo.",
+      "notes": "Aguas ab. continua 30: Nada en aguas abiertas para irte acostumbrando a ese entorno. Terminar con: Hazlo bien, de manera relajada y disfrútalo.",
       "zones": [
         1,
         2
@@ -408,10 +408,10 @@
       "duration": "1:12",
       "blocks": [
         "Bloque 1: 300 m en Z1 de natación combinada de estilo libre y espalda.",
-        "Bloque 2: 5x (25 m patada, 50 m técnica, 75 m natación) Todo en",
+        "Bloque 2: 5x (25 m patada, 50 m técnica, 75 m natación) Todo en Z1+20 s.",
         "Bloque 3: 150 m Tirón o Natación en Z1."
       ],
-      "notes": "Z1+20 s. Intenta que un entrenador de natación observe tu brazada y te dé algún consejo para mejorar tu técnica.",
+      "notes": "Intenta que un entrenador de natación observe tu brazada y te dé algún consejo para mejorar tu técnica.",
       "zones": [
         1
       ],
@@ -480,12 +480,12 @@
       "duration": "1:18",
       "blocks": [
         "Bloque 1: 300 m en Z1 de natación con algo de espalda.",
-        "Bloque 2: 4x50 m + 15 s incrementando cada 50 m Z1-Z2-",
+        "Bloque 2: 4x50 m + 15 s incrementando cada 50 m Z1-Z2- Z3-Z4.",
         "Bloque 3: 50 m en Z1 de recuperación.",
         "Bloque 4: 400 m TT intentando lograr el mejor tiempo posible.",
         "Bloque 5: 4x25 m patada en Z2 + 10 s, 150 m en Z1 natación."
       ],
-      "notes": "Z3-Z4. No salgas demasiado fuerte. Comprueba tu tiempo y la frecuencia cardíaca cuando termines de nadar.",
+      "notes": "No salgas demasiado fuerte. Comprueba tu tiempo y la frecuencia cardíaca cuando termines de nadar.",
       "zones": [
         1,
         2,
@@ -556,9 +556,9 @@
       "title": "Trote suave 30",
       "duration": "0:30",
       "blocks": [
-        "Bloque 1: 30 min en Z1"
+        "Bloque 1: 30 min en Z1 Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. El objetivo es mantener una frecuencia cardíaca y un ritmo constantes, por lo que no debes empezar muy fuerte. Debes terminar sintiéndote bien. Termina con 5 min de estiramiento."
       ],
-      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. El objetivo es mantener una frecuencia cardíaca y un ritmo constantes, por lo que no debes empezar muy fuerte. Debes terminar sintiéndote bien. Termina con 5 min de estiramiento.",
+      "notes": null,
       "zones": [
         1
       ],
@@ -621,9 +621,9 @@
       "title": "Rodaje largo 50",
       "duration": "0:50",
       "blocks": [
-        "Bloque 1: 50 min de carrera en"
+        "Bloque 1: 50 min de carrera en Z1. Mantén la intensidad constante a lo largo de la sesión. Puede que tengas las piernas cansadas del recorrido largo del día anterior, por lo que debes centrarte en mantener una buena forma. Mantén las RPM altas y el cuerpo erguido."
       ],
-      "notes": "Z1. Mantén la intensidad constante a lo largo de la sesión. Puede que tengas las piernas cansadas del recorrido largo del día anterior, por lo que debes centrarte en mantener una buena forma. Mantén las RPM altas y el cuerpo erguido.",
+      "notes": null,
       "zones": [
         1
       ],
@@ -651,11 +651,11 @@
       "blocks": [
         "Bloque 1: 200 m en Z1 de estilo libre y espalda",
         "Bloque 2: 2x50 m en Z1 de técnica + 10 s",
-        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m Z1-Z2-",
+        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m Z1-Z2- Z3-Z4.",
         "Bloque 4: 3x300 m en Z3 de natación + 30 s",
         "Bloque 5: 200 m en Z1 de estilo libre y espalda"
       ],
-      "notes": "Z3-Z4. Intenta alcanzar tu velocidad de carrera objetivo en los 300.",
+      "notes": "Intenta alcanzar tu velocidad de carrera objetivo en los 300.",
       "zones": [
         1,
         2,
@@ -672,9 +672,9 @@
       "title": "Trote suave 30",
       "duration": "0:30",
       "blocks": [
-        "Bloque 1: 30 min en Z1"
+        "Bloque 1: 30 min en Z1 Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. Sigue trabajando tu técnica incluso cuando estés corriendo suave."
       ],
-      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. Sigue trabajando tu técnica incluso cuando estés corriendo suave. No la descuides. Levanta las rodillas, mantén el cuerpo erguido y mantén las RPM en torno a 93-95",
+      "notes": "No la descuides. Levanta las rodillas, mantén el cuerpo erguido y mantén las RPM en torno a 93-95",
       "zones": [
         1
       ],
@@ -708,11 +708,11 @@
       "duration": "1:30",
       "blocks": [
         "Bloque 1: 200 m en Z1 de natación con algo de espalda.",
-        "Bloque 2: 2x50 m de patada en",
+        "Bloque 2: 2x50 m de patada en Z1 + 10 s.",
         "Bloque 3: 2x500 m de natación en Z2 + 50 s.",
         "Bloque 4: 200 m en Z1 de natación."
       ],
-      "notes": "Z1 + 10 s. Repeticiones algo más largas para mejorar la resistencia. Sigue contando las brazadas cada tercer largo de 50 m para comprobar que mantienes la forma Sesión de entrenamiento bicicleta-carrera,",
+      "notes": "Repeticiones algo más largas para mejorar la resistencia. Sigue contando las brazadas cada tercer largo de 50 m para comprobar que mantienes la forma Sesión de entrenamiento bicicleta-carrera,",
       "zones": [
         1,
         2
@@ -732,9 +732,9 @@
         "Bloque 3: 5 min en Z3 a 95 RPM",
         "Bloque 4: 5 min en Z1",
         "Bloque 5: 30 min en Z3 a 95 RPM",
-        "Bloque 6: 10 min en Z1 Bajar de bicicleta y carrera"
+        "Bloque 6: 10 min en Z1"
       ],
-      "notes": null,
+      "notes": "Bajar de bicicleta y carrera",
       "zones": [
         1,
         2,
@@ -859,11 +859,11 @@
       "blocks": [
         "Bloque 1: 200 m en Z1 de estilo libre y espalda",
         "Bloque 2: 2x50 m en Z1 de técnica + 10 s",
-        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en",
+        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en Z1-Z2-Z3-Z4.",
         "Bloque 4: 3x300 m en Z3 de natación + 30 s",
         "Bloque 5: 200 m en Z1 de estilo libre y espalda"
       ],
-      "notes": "Z1-Z2-Z3-Z4. Intenta alcanzar tu velocidad de carrera objetivo en los 300.",
+      "notes": "Intenta alcanzar tu velocidad de carrera objetivo en los 300.",
       "zones": [
         1,
         2,
@@ -880,9 +880,9 @@
       "title": "Rodaje largo 60",
       "duration": "0:60",
       "blocks": [
-        "Bloque 1: 60 min de carrera en"
+        "Bloque 1: 60 min de carrera en Z1. Leve aumento de la longitud del rodaje largo. Sigue trabajando tu técnica. Lleva encima dos geles y tómate uno a los 20 minutos y otro a los 40 minutos para mantener el nivel de energía que necesitas y ayudarte a recuperarte antes."
       ],
-      "notes": "Z1. Leve aumento de la longitud del rodaje largo. Sigue trabajando tu técnica. Lleva encima dos geles y tómate uno a los 20 minutos y otro a los 40 minutos para mantener el nivel de energía que necesitas y ayudarte a recuperarte antes.",
+      "notes": null,
       "zones": [
         1
       ],
@@ -939,9 +939,9 @@
       "title": "Trote suave 40",
       "duration": "0:40",
       "blocks": [
-        "Bloque 1: 40 min en Z1"
+        "Bloque 1: 40 min en Z1 Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr."
       ],
-      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. Si te duelen las piernas, puedes hacer esta sesión como aqua- jogging en la piscina.",
+      "notes": "Si te duelen las piernas, puedes hacer esta sesión como aqua- jogging en la piscina.",
       "zones": [
         1
       ],
@@ -956,12 +956,12 @@
       "duration": "1:18",
       "blocks": [
         "Bloque 1: 300 m en Z1 de natación con algo de espalda.",
-        "Bloque 2: 4x50 m + 15 s incrementando cada 50 m Z1-Z2-",
+        "Bloque 2: 4x50 m + 15 s incrementando cada 50 m Z1-Z2- Z3-Z4.",
         "Bloque 3: 50 m en Z1 de recuperación.",
         "Bloque 4: 400 m TT intentando lograr el mejor tiempo. Compara el resultado con la prueba en la semana 2. Controla tu intensidad al principio",
         "Bloque 5: 4x25 m patada en Z2 + 10 s, 150 m de natación en Z1."
       ],
-      "notes": "Z3-Z4.",
+      "notes": null,
       "zones": [
         1,
         2,
@@ -1013,9 +1013,9 @@
       "title": "Rodaje largo 60",
       "duration": "0:60",
       "blocks": [
-        "Bloque 1: 60 min de carrera en"
+        "Bloque 1: 60 min de carrera en Z1."
       ],
-      "notes": "Z1. Recuerda seguir trabajando la técnica - rodillas arriba, RPM en torno a 94 y cuerpo erguido. PLAN DE ENTRENAMIENTO TRIATLÓN PROGRAMA 12 SEMANAS - NIVEL PRINCIPIANTE SPRINT 8 WWW.GARMIN.ES Fase tres - Específico para carrera - Ya has hecho la mayor parte del trabajo duro y las sesiones serán a continuación más cortas pero a menudo más intensas. Ahora debes esforzarte al máximo como harás en la competición y comprender cómo llevar el ritmo adecuado. Semana Lunes Martes Miércoles Jueves Viernes Sábado Domingo",
+      "notes": "Recuerda seguir trabajando la técnica - rodillas arriba, RPM en torno a 94 y cuerpo erguido. PLAN DE ENTRENAMIENTO TRIATLÓN PROGRAMA 12 SEMANAS - NIVEL PRINCIPIANTE SPRINT 8 WWW.GARMIN.ES Fase tres - Específico para carrera - Ya has hecho la mayor parte del trabajo duro y las sesiones serán a continuación más cortas pero a menudo más intensas. Ahora debes esforzarte al máximo como harás en la competición y comprender cómo llevar el ritmo adecuado. Semana Lunes Martes Miércoles Jueves Viernes Sábado Domingo",
       "zones": [
         1
       ],
@@ -1031,11 +1031,11 @@
       "blocks": [
         "Bloque 1: 200 m en Z1 de estilo libre y espalda",
         "Bloque 2: 2x50 m en Z1 de técnica + 10 s",
-        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en",
+        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en Z1-Z2-Z3-Z4.",
         "Bloque 4: 800 m en Z3 de natación + 30 s",
-        "Bloque 5: 200 m en Z1 de estilo libre y espalda"
+        "Bloque 5: 200 m en Z1 de estilo libre y espalda Utiliza la repetición de 800 m para practicar y coger el ritmo adecuado para tu carrera."
       ],
-      "notes": "Z1-Z2-Z3-Z4. Utiliza la repetición de 800 m para practicar y coger el ritmo adecuado para tu carrera. Visualízate nadando en la competición.",
+      "notes": "Visualízate nadando en la competición.",
       "zones": [
         1,
         2,
@@ -1091,10 +1091,10 @@
         "Bloque 2: 5 min en Z1 a 80 RPM.",
         "Repite lo siguiente 5 veces:",
         "Bloque 3: 15 s en Z5 pedaleando a 100-105 RPM.",
-        "Bloque 4: 4 min 45 s en Z1 a 90",
+        "Bloque 4: 4 min 45 s en Z1 a 90 RPM",
         "Bloque 4: 5 min en Z1"
       ],
-      "notes": "RPM Terminar con: Los sprints te ayudarán a activar las piernas.",
+      "notes": "Terminar con: Los sprints te ayudarán a activar las piernas.",
       "zones": [
         1,
         5
@@ -1110,10 +1110,10 @@
       "duration": "1:12",
       "blocks": [
         "Bloque 1: 300 m en Z1 de natación combinada de estilo libre y espalda.",
-        "Bloque 2: 5x (25 m patada, 50 m técnica, 75 m natación) Todo en",
-        "Bloque 3: 150 m Tirón o"
+        "Bloque 2: 5x (25 m patada, 50 m técnica, 75 m natación) Todo en Z1+20 s.",
+        "Bloque 3: 150 m Tirón o Natación en Z1."
       ],
-      "notes": "Z1+20 s. Natación en Z1. Trabaja tu recuperación y agarre al principio de la brazada. Sesión de entrenamiento de simulación de carrera,",
+      "notes": "Trabaja tu recuperación y agarre al principio de la brazada. Sesión de entrenamiento de simulación de carrera,",
       "zones": [
         1
       ],
@@ -1131,9 +1131,9 @@
         "Bloque 2: 5 min en Z2 a 90 RPM",
         "Bloque 3: 5 min en Z3 a 95 RPM",
         "Bloque 4: 5 min en Z1",
-        "Bloque 5: 20 km en Z3 a 95 RPM Bajar de bicicleta y carrera"
+        "Bloque 5: 20 km en Z3 a 95 RPM"
       ],
-      "notes": null,
+      "notes": "Bajar de bicicleta y carrera",
       "zones": [
         1,
         2,
@@ -1167,9 +1167,9 @@
       "title": "Trote suave 30",
       "duration": "0:30",
       "blocks": [
-        "Bloque 1: 30 min en Z1"
+        "Bloque 1: 30 min en Z1 Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. El objetivo es mantener una frecuencia cardíaca y un ritmo constantes, por lo que no debes empezar muy fuerte. Debes terminar sintiéndote bien. Termina con 5 min de estiramiento."
       ],
-      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. El objetivo es mantener una frecuencia cardíaca y un ritmo constantes, por lo que no debes empezar muy fuerte. Debes terminar sintiéndote bien. Termina con 5 min de estiramiento.",
+      "notes": null,
       "zones": [
         1
       ],
@@ -1184,13 +1184,13 @@
       "duration": "1:12",
       "blocks": [
         "Bloque 1: 200 m en Z1 de natación con algo de espalda.",
-        "Bloque 2: 2x50 m de patada en",
-        "Bloque 3: 4x50 m como 25 m en",
+        "Bloque 2: 2x50 m de patada en Z1 + 10 s.",
+        "Bloque 3: 4x50 m como 25 m en Z5, 25 m en Z1 + 30 s",
         "Bloque 4: 100 m en Z1 de natación y patada",
         "Bloque 5: 400 m en Z3 de natación",
         "Bloque 6: 200 m en Z1 de natación."
       ],
-      "notes": "Z1 + 10 s. Z5, 25 m en Z1 + 30 s",
+      "notes": null,
       "zones": [
         1,
         3,
@@ -1210,14 +1210,14 @@
         "Bloque 2: 5 min en Z1 a 80 RPM.",
         "Repite lo siguiente 5 veces:",
         "Bloque 3: 15 s en Z5 pedaleando a 100-105 RPM.",
-        "Bloque 4: 4 min 45 s en Z1 a 90",
+        "Bloque 4: 4 min 45 s en Z1 a 90 RPM",
         "Bloque 4: 5 min en Z1",
         "Bloque 1: 15 min en Z1",
         "Bloque 2: 12 min en Z2",
         "Bloque 3: 8 min en Z3",
         "Bloque 4: 5 min en Z1"
       ],
-      "notes": "RPM Terminar con: Puedes hacerlo en carretera o turbo. Los sprints te ayudarán a activar tus piernas. Incremento de carrera 40: Intenta mantener el mismo ritmo que en el incremento de carrera de la semana pasada pero durante algo más de tiempo. Termina con 10 min de estiramiento",
+      "notes": "Terminar con: Puedes hacerlo en carretera o turbo. Los sprints te ayudarán a activar tus piernas. Incremento de carrera 40: Intenta mantener el mismo ritmo que en el incremento de carrera de la semana pasada pero durante algo más de tiempo. Termina con 10 min de estiramiento",
       "zones": [
         1,
         2,
@@ -1248,11 +1248,11 @@
       "blocks": [
         "Bloque 1: 200 m en Z1 de estilo libre y espalda",
         "Bloque 2: 2x50 m en Z1 de técnica + 10 s",
-        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en",
+        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en Z1-Z2-Z3-Z4.",
         "Bloque 4: 800 m en Z3 de natación + 30 s",
-        "Bloque 5: 200 m en Z1 de estilo libre y espalda"
+        "Bloque 5: 200 m en Z1 de estilo libre y espalda Utiliza la repetición de 800 m para practicar y coger el ritmo adecuado para tu carrera."
       ],
-      "notes": "Z1-Z2-Z3-Z4. Utiliza la repetición de 800 m para practicar y coger el ritmo adecuado para tu carrera. Visualízate nadando en la competición.",
+      "notes": "Visualízate nadando en la competición.",
       "zones": [
         1,
         2,
@@ -1305,9 +1305,9 @@
       "title": "Trote suave 40",
       "duration": "0:40",
       "blocks": [
-        "Bloque 1: 40 min en Z1"
+        "Bloque 1: 40 min en Z1 Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr."
       ],
-      "notes": "Haz de 5 a 10 min de ejercicios de movimientos suaves antes de comenzar a correr. Si te duelen las piernas, puedes hacer esta sesión como aqua- jogging en la piscina. PLAN DE ENTRENAMIENTO TRIATLÓN PROGRAMA 12 SEMANAS - NIVEL PRINCIPIANTE SPRINT 9 WWW.GARMIN.ES Semana Lunes Martes Miércoles Jueves Viernes Sábado Domingo",
+      "notes": "Si te duelen las piernas, puedes hacer esta sesión como aqua- jogging en la piscina. PLAN DE ENTRENAMIENTO TRIATLÓN PROGRAMA 12 SEMANAS - NIVEL PRINCIPIANTE SPRINT 9 WWW.GARMIN.ES Semana Lunes Martes Miércoles Jueves Viernes Sábado Domingo",
       "zones": [
         1
       ],
@@ -1387,10 +1387,10 @@
         "Bloque 5: 3 min en L4 a 95 RPM",
         "Bloque 6: 2 min en L1 a 85 RPM",
         "Bloque 7: 30 s en L5 a 100 RPM",
-        "Bloque 8: 2 min en L1 a 85 RPM Terminar con:",
+        "Bloque 8: 2 min en L1 a 85 RPM",
         "Bloque 7: 5 min en Z1 a 90 RPM"
       ],
-      "notes": null,
+      "notes": "Terminar con:",
       "zones": [
         1,
         2,
@@ -1410,11 +1410,11 @@
       "blocks": [
         "Bloque 1: 200 m en Z1 de estilo libre y espalda",
         "Bloque 2: 2x50 m en Z1 de técnica + 10 s",
-        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en",
+        "Bloque 3: 4x50 m + 15 s incrementando cada 50 m en Z1-Z2-Z3-Z4.",
         "Bloque 4: 800 m en Z3 de natación + 30 s",
-        "Bloque 5: 200 m en Z1 de estilo libre y espalda"
+        "Bloque 5: 200 m en Z1 de estilo libre y espalda Utiliza la repetición de 800 m para practicar y coger el ritmo adecuado para tu carrera."
       ],
-      "notes": "Z1-Z2-Z3-Z4. Utiliza la repetición de 800 m para practicar y coger el ritmo adecuado para tu carrera. Visualízate nadando en la competición.",
+      "notes": "Visualízate nadando en la competición.",
       "zones": [
         1,
         2,
@@ -1480,13 +1480,13 @@
       "duration": "1:12",
       "blocks": [
         "Bloque 1: 200 m en Z1 de natación con algo de espalda.",
-        "Bloque 2: 2x50 m de patada en",
-        "Bloque 3: 4x50 m como 25 m en",
+        "Bloque 2: 2x50 m de patada en Z1 + 10 s.",
+        "Bloque 3: 4x50 m como 25 m en Z5, 25 m en Z1 + 30 s",
         "Bloque 4: 100 m en Z1 de natación y patada",
         "Bloque 5: 400 m en Z3 de natación",
         "Bloque 6: 200 m en Z1 de natación."
       ],
-      "notes": "Z1 + 10 s. Z5, 25 m en Z1 + 30 s",
+      "notes": null,
       "zones": [
         1,
         3,
@@ -1522,10 +1522,10 @@
         "Bloque 5: 2 min en L4 a 95 RPM",
         "Bloque 6: 1 min en L1 a 85 RPM",
         "Bloque 7: 30 s en L5 a 100 RPM",
-        "Bloque 8: 2 min en L1 a 85 RPM Terminar con:",
+        "Bloque 8: 2 min en L1 a 85 RPM",
         "Bloque 7: 5 min en Z1 a 90 RPM"
       ],
-      "notes": null,
+      "notes": "Terminar con:",
       "zones": [
         1,
         2,
@@ -1558,10 +1558,10 @@
         "Bloque 1: 5 min en Z1",
         "Repite lo siguiente 5 veces:",
         "Bloque 2: 30 s en Z4",
-        "Bloque 3: 1,5 min en Z2 Terminar con:",
+        "Bloque 3: 1,5 min en Z2",
         "Bloque 4: 5 min en Z1"
       ],
-      "notes": "Corre sobre una superficie blanda con tus zapatillas si puedes. No fuerces el ritmo durante los ejercicios para coger ritmo de 30 s. Deberías empezar a sentirte muy bien, así que deja que llegue la velocidad de manera natural.",
+      "notes": "Terminar con: Corre sobre una superficie blanda con tus zapatillas si puedes. No fuerces el ritmo durante los ejercicios para coger ritmo de 30 s. Deberías empezar a sentirte muy bien, así que deja que llegue la velocidad de manera natural.",
       "zones": [
         1,
         2,

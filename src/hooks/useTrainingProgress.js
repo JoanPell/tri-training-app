@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 const STORAGE_KEYS = {
   START_DATE: 'tri_training_start_date',
@@ -33,9 +33,9 @@ export const useTrainingProgress = () => {
   };
 
   // Marcar/desmarcar un entrenamiento como completado
-  const toggleWorkoutComplete = (week, day) => {
+  const toggleWorkoutComplete = (week, day, index) => {
     setCompletedWorkouts(prev => {
-      const key = `${week}-${day}`;
+      const key = `${week}-${day}-${index}`;
       const isCompleted = prev.includes(key);
 
       let newCompleted;
@@ -54,8 +54,8 @@ export const useTrainingProgress = () => {
   };
 
   // Verificar si un entrenamiento está completado
-  const isWorkoutCompleted = (week, day) => {
-    const key = `${week}-${day}`;
+  const isWorkoutCompleted = (week, day, index) => {
+    const key = `${week}-${day}-${index}`;
     return completedWorkouts.includes(key);
   };
 
