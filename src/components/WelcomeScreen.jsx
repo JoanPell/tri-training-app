@@ -3,6 +3,21 @@ import './WelcomeScreen.css';
 import { getNextMonday, formatDate } from '../utils/dateUtils';
 
 const motivationalMessages = [
+  "Bruce ja ha sortit a córrer... i tu encara ets al llit?",
+  "Oihane et mira amb cara de 'venga va, que pots!'",
+  "Speaker en forma, equip en forma!",
+  "Entrena ara, gaudeix dels macarrons gratinats després",
+  "Si pots aguantar un partit del Sabadell, pots amb això",
+  "Bruce t'espera per celebrar-ho amb un bon passeig",
+  "Oihane ja sap que avui estaràs cansat... però orgullós",
+  "Al Nova Creu Alta també es pateix, això és entrenar!",
+  "Les calories que cremes ara són croquetes després",
+  "Del speaker del Sabadell al triatleta de Barcelona",
+  "Bruce t'observa amb cara de 'tu pots, amo'",
+  "Els arlequinats no es rendeixen mai!",
+  "Entrena fort, celebra amb Oihane i Bruce més fort",
+  "Barcelona t'espera, però primer sues una mica",
+  "Speaker de dia, triatleta de nit... o al revés?",
   "Cada entrenament et porta més a prop de la meta!",
   "El triatlonista que vols ser està esperant-te!",
   "Avui és un bon dia per superar-te!",

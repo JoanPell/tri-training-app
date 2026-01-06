@@ -59,6 +59,23 @@ export const useTrainingProgress = () => {
     return completedWorkouts.includes(key);
   };
 
+  // Calcular la semana actual basándose en la fecha de inicio
+  const getCurrentWeek = () => {
+    if (!startDate) return 1;
+
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const start = new Date(startDate);
+    start.setHours(0, 0, 0, 0);
+
+    const diffTime = today - start;
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    const weekNumber = Math.floor(diffDays / 7) + 1;
+
+    // Limitar entre semana 1 y 12
+    return Math.max(1, Math.min(12, weekNumber));
+  };
+
   // Reiniciar todo el progreso (útil para testing)
   const resetProgress = () => {
     setHasStarted(false);
@@ -76,6 +93,7 @@ export const useTrainingProgress = () => {
     startTraining,
     toggleWorkoutComplete,
     isWorkoutCompleted,
-    resetProgress
+    resetProgress,
+    getCurrentWeek
   };
 };

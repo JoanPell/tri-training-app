@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import './App.css';
 import WelcomeScreen from './components/WelcomeScreen';
 import WeekSelector from './components/WeekSelector';
@@ -9,17 +9,26 @@ import { useTrainingProgress } from './hooks/useTrainingProgress';
 import { getDateForWeekDay } from './utils/dateUtils';
 
 function App() {
-  const [selectedWeek, setSelectedWeek] = useState(1);
-  const [isResetModalOpen, setIsResetModalOpen] = useState(false);
-  const [showWelcome, setShowWelcome] = useState(true);
   const {
     hasStarted,
     startDate,
     startTraining,
     toggleWorkoutComplete,
     isWorkoutCompleted,
-    resetProgress
+    resetProgress,
+    getCurrentWeek
   } = useTrainingProgress();
+
+  const [selectedWeek, setSelectedWeek] = useState(getCurrentWeek());
+  const [isResetModalOpen, setIsResetModalOpen] = useState(false);
+  const [showWelcome, setShowWelcome] = useState(true);
+
+  // Actualizar la semana seleccionada cuando cierra el welcome
+  useEffect(() => {
+    if (!showWelcome && hasStarted) {
+      setSelectedWeek(getCurrentWeek());
+    }
+  }, [showWelcome, hasStarted, getCurrentWeek]);
 
   const handleStart = (initialDate) => {
     startTraining(initialDate);
