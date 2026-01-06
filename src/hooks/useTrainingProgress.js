@@ -3,7 +3,8 @@ import { useState } from 'react';
 const STORAGE_KEYS = {
   START_DATE: 'tri_training_start_date',
   COMPLETED_WORKOUTS: 'tri_training_completed_workouts',
-  HAS_STARTED: 'tri_training_has_started'
+  HAS_STARTED: 'tri_training_has_started',
+  LAST_VIEWED_WEEK: 'tri_training_last_viewed_week'
 };
 
 export const useTrainingProgress = () => {
@@ -76,6 +77,21 @@ export const useTrainingProgress = () => {
     return Math.max(1, Math.min(12, weekNumber));
   };
 
+  // Obtener la última semana visitada
+  const getLastViewedWeek = () => {
+    const saved = localStorage.getItem(STORAGE_KEYS.LAST_VIEWED_WEEK);
+    if (saved) {
+      return parseInt(saved, 10);
+    }
+    // Si no hay última semana visitada, devolver la semana actual
+    return getCurrentWeek();
+  };
+
+  // Guardar la última semana visitada
+  const saveLastViewedWeek = (week) => {
+    localStorage.setItem(STORAGE_KEYS.LAST_VIEWED_WEEK, week.toString());
+  };
+
   // Reiniciar todo el progreso (útil para testing)
   const resetProgress = () => {
     setHasStarted(false);
@@ -84,6 +100,7 @@ export const useTrainingProgress = () => {
     localStorage.removeItem(STORAGE_KEYS.HAS_STARTED);
     localStorage.removeItem(STORAGE_KEYS.START_DATE);
     localStorage.removeItem(STORAGE_KEYS.COMPLETED_WORKOUTS);
+    localStorage.removeItem(STORAGE_KEYS.LAST_VIEWED_WEEK);
   };
 
   return {
@@ -94,6 +111,8 @@ export const useTrainingProgress = () => {
     toggleWorkoutComplete,
     isWorkoutCompleted,
     resetProgress,
-    getCurrentWeek
+    getCurrentWeek,
+    getLastViewedWeek,
+    saveLastViewedWeek
   };
 };

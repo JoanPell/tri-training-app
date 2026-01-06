@@ -16,19 +16,18 @@ function App() {
     toggleWorkoutComplete,
     isWorkoutCompleted,
     resetProgress,
-    getCurrentWeek
+    getLastViewedWeek,
+    saveLastViewedWeek
   } = useTrainingProgress();
 
-  const [selectedWeek, setSelectedWeek] = useState(getCurrentWeek());
+  const [selectedWeek, setSelectedWeek] = useState(() => getLastViewedWeek());
   const [isResetModalOpen, setIsResetModalOpen] = useState(false);
   const [showWelcome, setShowWelcome] = useState(true);
 
-  // Actualizar la semana seleccionada cuando cierra el welcome
+  // Guardar la semana seleccionada cada vez que cambia
   useEffect(() => {
-    if (!showWelcome && hasStarted) {
-      setSelectedWeek(getCurrentWeek());
-    }
-  }, [showWelcome, hasStarted, getCurrentWeek]);
+    saveLastViewedWeek(selectedWeek);
+  }, [selectedWeek, saveLastViewedWeek]);
 
   const handleStart = (initialDate) => {
     startTraining(initialDate);
