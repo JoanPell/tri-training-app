@@ -1,8 +1,9 @@
-const CACHE_NAME = 'tri-training-v2';
+const CACHE_NAME = 'tri-training-v3';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/tritraining.svg'
+  '/tritraining.svg',
+  '/manifest.json'
 ];
 
 // Activar inmediatamente el nuevo service worker
