@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import './WelcomeScreen.css';
 import { getNextMonday, formatDate } from '../utils/dateUtils';
 
@@ -30,14 +30,12 @@ const motivationalMessages = [
 
 function WelcomeScreen({ onStart, hasStarted, onContinue }) {
   const [show, setShow] = useState(true);
-  const [message, setMessage] = useState('');
   const nextMonday = getNextMonday();
 
-  useEffect(() => {
-    // Seleccionar un mensaje aleatorio
-    const randomMessage = motivationalMessages[Math.floor(Math.random() * motivationalMessages.length)];
-    setMessage(randomMessage);
-  }, []);
+  // Seleccionar un mensaje aleatorio al inicio
+  const [message] = useState(() => {
+    return motivationalMessages[Math.floor(Math.random() * motivationalMessages.length)];
+  });
 
   const handleStart = () => {
     setShow(false);
