@@ -1,25 +1,34 @@
-const CACHE_NAME = 'tri-training-v1';
+const CACHE_NAME = 'tri-training-v2';
 const urlsToCache = [
   '/',
   '/index.html',
   '/tritraining.svg'
 ];
 
+// Activar inmediatamente el nuevo service worker
 self.addEventListener('install', (event) => {
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then((cache) => cache.addAll(urlsToCache))
   );
 });
 
+// Estrategia: Network first, fallback to cache
 self.addEventListener('fetch', (event) => {
   event.respondWith(
-    caches.match(event.request)
+    fetch(event.request)
       .then((response) => {
-        if (response) {
-          return response;
-        }
-        return fetch(event.request);
+        // Clonar la respuesta antes de guardarla
+        const responseToCache = response.clone();
+        caches.open(CACHE_NAME).then((cache) => {
+          cache.put(event.request, responseToCache);
+        });
+        return response;
+      })
+      .catch(() => {
+        // Si falla la red, intentar con caché
+        return caches.match(event.request);
       })
   );
 });
@@ -36,4 +45,6 @@ self.addEventListener('activate', (event) => {
       );
     })
   );
+  // Tomar control inmediatamente
+  return self.clients.claim();
 });
